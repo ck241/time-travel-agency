@@ -14,7 +14,7 @@ body {
 /* Header */
 header {
     display: flex;
-    background: linear-gradient(170deg, #aa4444, #0b3d69);
+    background: linear-gradient(170deg, #0b3d69, #aa4444);
     justify-content: center;
     padding: 1rem 0;
     text-shadow: 0 6px 10px rgba(0, 0, 0, 1);
